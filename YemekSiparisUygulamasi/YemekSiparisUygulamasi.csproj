@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YemekSiparisMotoru.cs" />
+    <Compile Include="YemekSiparisMotoruTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
